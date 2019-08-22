@@ -6,10 +6,10 @@ app.use((req, res, next) => {
 
             "Destinations":{
             "1": {
-                "name": "watamu",
+                "name": "Watamu",
                 "description": "Watamu offers many different area to enjoy the white Indian Ocean beaches. From the bay of 7 island to Mida creek.",
                 "photo": "http://zoackadventures.co.ke/zoack-adventures-tours/watamu-beach/",
-                "location": "watamu",
+                "location": "Watamu",
                 "Itenary":{
                     "name":"",
                     "cost":"",
@@ -18,10 +18,10 @@ app.use((req, res, next) => {
             },
             
             "2": {
-                "name": "diani beach",
+                "name": "Diani Beach",
                 "description": "Diani Beach is a major beach resort on the Indian Ocean coast of Kenya. It is located 30 kilometres south of Mombasa, in the nearby Kwale County. It has been voted Africa’s leading beach destination for the third time running since 2015.The beach is about 17 kilometres (11 mi) long, from the Kongo river to the north and Galu beach to the south (the southern point of reference is an old Baobab tree). With a population of over 100,000 inhabitants, the Diani/Ukunda urban area is one of the largest at the Kenyan coast and forms part of the larger Mombasa metropolitan region. A small airstrip is located between the beach area and the Mombasa-Lunga Lunga road. The water remains shallow near shore, with some underwater sandbars near the surface which allow wading with a clear view of the sandy bottom.The general area is known for its coral reefs, black-and-white colobus monkeys, and for the closely located Shimba Hills National Reserve, a wildlife reserve which looks out over the Indian Ocean. Diani Beach has restaurants, hotels, supermarkets, and several shopping centres.Diani Beach is also a popular kitesurfing, sky diving, jet skiing, and snorkelling location.",
                 "photo": "http://zoackadventures.co.ke/zoack-adventures-tours/diani-beach/",
-                "location": "diani",
+                "location": "Diani",
                 "Itenary":{
                     "name":"",
                     "cost":"",
@@ -29,7 +29,7 @@ app.use((req, res, next) => {
                 }
             },
             "3": {
-                "name": "ngorongoro crater",
+                "name": "Ngorongoro Crater",
                 "description": "The Ngorongoro Crater is a breathtakingly beautiful setting and the best place in Tanzania to see the Big Five.  However, as one of the world’s most astonishing and renowned natural wonders, the Ngorongoro Crater does get busy, and at times very busy.  Due to the crowds we recommend a two-night stay only here, then moving on to the Serengeti for a quieter, more private safari experience.",
                 "photo": "http://zoackadventures.co.ke/zoack-adventures-tours/ngoro-ngoro-creature/",
                 "location": "Tanzania",
@@ -40,7 +40,7 @@ app.use((req, res, next) => {
                 }
             },
             "4": {
-                "name": "mt kenya hike",
+                "name": "Mt Kenya Hike",
                 "description": "Standing at 5,199 meters above sea level, Mt Kenya is the second highest mountain in Africa and, in the eyes of African Ascents; this is the most beautiful mountain in Africa. Mt Kenya is riddled with pioneering history, with some of the most amazing stories in mountaineering history. To name one ‘No picnic on mount Kenya’, the scene of the famous Italian prisoners of war who escaped to climb the Teleki Valley to attempt to summit Point Batian in hot pursuit from their captures. Since then many mountaineering legends established themselves on Mt Kenya, Halford Mackinder, Eric Shipton and Arthur Firmin, to name a few. Modern day legends in Ian Howell and Ian Allen are also very evident, establishing many of the technical routes on Batian (5,199m) and Nelion (5,188m). ”Howell Hut” was built by Ian Howell who soloed Point Nelion 13 times to establish the hut on the summit; this hut is still used today and is incorporated in African Ascents itinerary’s. The highest peaks of the mountain are Batian (5,199 metres (17,057  ft.)), Nelion (5,188 metres (17,021  ft.)) which are technical ascents, and Point Lenana (4,985 metres (16,355  ft.)). Mount Kenya is located in central Kenya, just south of the equator near the African Ascents home of Nanyuki, around 150 kilometres (93 miles) north-northeast of the capital Nairobi. Mount Kenya is the source of the name of the Republic of Kenya",
                 "photo": "http://zoackadventures.co.ke/zoack-adventures-tours/kilimambogo-hike/",
                 "location": "Nanyuki",
@@ -51,7 +51,7 @@ app.use((req, res, next) => {
                 }
             },
             "5": {
-                "name": "sweet water nanyuki",
+                "name": "Sweet Water Nanyuki",
                 "description": "The Sweetwaters Chimpanzee Sanctuary was established with an agreement between the Ol Pejeta Conservancy, the Kenya Wildlife Service (KWS) and the Jane Goodall Institute. The aim – to provide lifelong refuge to orphaned and abused chimpanzees from West and Central Africa. Over the last decade, Sweetwaters Chimpanzee Sanctuary has been compelled to keep accepting chimpanzees rescued from traumatic situations – bringing the total number of chimpanzees in the Sanctuary to 37. Many are confiscated from cramped and unnatural living conditions, and many arrive with horrific injuries sustained from abuse at the hands of humans. Here at Sweetwaters, they get a chance to start over",
                 "photo": "http://zoackadventures.co.ke/zoack-adventures-tours/sweet-waters-nanyuki/",
                 "location": "Nanyuki",
