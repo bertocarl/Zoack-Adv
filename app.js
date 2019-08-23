@@ -4,7 +4,7 @@ const app = express();
 app.use((req, res, next) => {
     res.status(200).json({
 
-            "Destinations":[
+            "destinations":[
              {
                 "name": "Watamu",
                 "description": "Watamu offers many different area to enjoy the white Indian Ocean beaches. From the bay of 7 island to Mida creek.",
